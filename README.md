@@ -6,16 +6,16 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'debasishlenka';
+import developer from 'debasishlenka';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends developer {
   name         = 'Debsish Lenka';
   interests    = 'Web Development , Web designing ';
   currentlyWorkingAt = 'Wipro | Remote work as of now';
   location     = 'Odisha, INDIA';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends developer {
   languages  = ['JavaScript', 'Java' , 'C++', 'HTML' ,'CSS'];
   databases  = ['MySQL'];
   frameworks = ['React-currently learning', 'Bootstrap'];
