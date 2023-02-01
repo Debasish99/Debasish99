@@ -10,19 +10,20 @@ import developer from 'debasishlenka';
 
 class Bio extends developer {
   name         = 'Debsish Lenka';
-  interests    = 'Web Development , Web designing ';
+  interests    = 'Web Development , System administration';
   currentlyWorkingAt = 'Wipro | Remote work as of now';
   location     = 'Odisha, INDIA';
 }
 
 class Skills extends developer {
-  languages  = ['JavaScript', 'Java' , 'C++', 'HTML' ,'CSS'];
-  databases  = ['MySQL'];
-  frameworks = ['React-currently learning', 'Bootstrap'];
+  languages = ['JavaScript', 'Java' , 'C++', 'HTML','CSS'];
+  databases  = ['MySQL' , 'MongoDB'];
+  frameworks = ['React-currently learning', 'Bootstrap','tailwind'];
+  experience = ['Windows AD', 'Windows Administration' , 'VMWare Administration' , 'AWS' , 'Linux']
 }
 ```
 
-⭐️ From [debasish](https://debasish-00.github.io/cv/)
+⭐️ From [debasishlenka.in](https://debasishlenka.in)
 
 
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg  )](https://www.linkedin.com/in/debasish-lenka-540376187/)
